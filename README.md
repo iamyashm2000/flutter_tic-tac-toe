@@ -26,5 +26,5 @@ Buy me a cup of coffee ☕️:
 Thank you in advance 👍
 
 ## Contact me 📧
-#### Email : mrbouaggadmoez@gmail.com
-#### Website : https://bouaggadmoez.netlify.com/
+#### Email : mehtayash780@gmail.com
+#### Website : https://yashymehta.com/
