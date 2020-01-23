@@ -19,12 +19,6 @@ You can support me by:
 
 ⭐️ this repo if you like it.
 
-Buy me a cup of coffee ☕️:
-
-<a href="https://www.buymeacoffee.com/bq6EgoCp0" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-Thank you in advance 👍
-
 ## Contact me 📧
 #### Email : mehtayash780@gmail.com
 #### Website : https://yashymehta.com/
